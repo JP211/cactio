@@ -30,7 +30,6 @@ class Projects extends Component {
                     <div className="btn-group">
                       <button type="button" className="btn btn-sm btn-outline-secondary"><Link to="/View">View</Link></button>
                       <button type="button" className="btn btn-sm btn-outline-secondary">Edit</button>
-                      <img className="cactiHeart" src={require('../../Assets/images/greenheart.png')} />
                     </div>
                     <small className="text-muted">11 mins</small>
                   </div>

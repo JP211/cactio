@@ -4,4 +4,7 @@
   <button className="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
 </form>
 
-// old navbar from tut
+// pin and pinterest icons
+
+<i className="fas fa-thumbtack"></i>
+<i className="fab fa-pinterest-square"></i>
