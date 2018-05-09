@@ -1,5 +1,3 @@
-Welcome to Cact.io 
-
 # Welcome to Pokie.io 
 Pokie is currently in development. (MERN application - A DIY web app)
 
