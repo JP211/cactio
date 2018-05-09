@@ -7,10 +7,9 @@ class Header extends Component {
   render() {
     return (
       <header>
-      <div className = "logo">
-      LOGO
-      </div>
-
+      <div className = "logoBox">
+          {/*<img className="card-img-top" src={require('../../Assets/images/logo.png')} alt={'Pokie'}/>*/}
+          </div>
       <nav>
         <ul>
           <li className="first">
