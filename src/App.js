@@ -6,6 +6,7 @@ import {
 } from 'react-router-dom';
 
 import './Assets/css/default.min.css';
+import './Assets/css/header.min.css';
 
 // Components
 import Header from './components/headerComponent/header';

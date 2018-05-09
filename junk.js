@@ -1,3 +1,7 @@
+// From navbar old
+<h1><a href="#"><img src={require("/Assets/images/logo.png")} alt = "logo"/></a></h1>
+
+
 //from bootstrap navbar - form not working with react?
 <form className="form-inline mt-2 mt-md-0">
   <input className="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
